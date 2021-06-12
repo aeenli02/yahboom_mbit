@@ -1,6 +1,5 @@
 ﻿/*
-Copyright (C): 2010-2019, Shenzhen Yahboom Tech
-modified from liusen
+Copyright (C): 2021-2031, NENGKA TEST
 load dependency
 "mbit": "file:../pxt-mbit"
 */
